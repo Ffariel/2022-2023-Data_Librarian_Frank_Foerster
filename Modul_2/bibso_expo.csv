@@ -1,4 +1,4 @@
-;title;authors;year;type;id;collected_by;number_authors
+;title_s;authors;year_i;type;id;collected_by;number_authors
 0;A Thesaurus and Online Encyclopedia Merging Method for Large Scale Domain-Ontology Automatic Construction.;['Ting Wang', 'Jicheng Song', 'Ruihua Di', 'Yi Liang'];2013;Publication;0;Frank;4
 1;Thesaurus of Health Informatics;['MaryEllen C. Sievert', 'David E. Moxley', 'Nancy J. Ogg', 'Timothy B. Patrick'];1998;Publication;1;Frank;4
 2;Estimating satisfactoriness of selectional restriction from corpus without a thesaurus.;['Yoichi Tomiura', 'Shosaku Tanaka', 'Toru Hitaka'];2005;Publication;2;Frank;3
